@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediumMailService", "MediumMailService\MediumMailService.csproj", "{470ACB71-79CA-47CC-A7B2-807EE040C8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470ACB71-79CA-47CC-A7B2-807EE040C8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470ACB71-79CA-47CC-A7B2-807EE040C8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470ACB71-79CA-47CC-A7B2-807EE040C8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470ACB71-79CA-47CC-A7B2-807EE040C8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09892B28-BF8C-4CF6-8904-D4AFDEA7AE01}
+	EndGlobalSection
+EndGlobal
